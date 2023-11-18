@@ -89,7 +89,7 @@ sections:
         - name: Python
           tag: Python
         - name: C++
-          tag: C++
+          tag: Cpp
         - name: Other
           tag: Demo
     design:

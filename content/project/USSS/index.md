@@ -18,7 +18,7 @@ links:
     name: Follow
     url: https://github.com/cichengzi
 url_code: 'https://github.com/cichengzi/UnmannedSupermarketSimulationSystem'
-url_pdf: 'https://github.com/cichengzi/cichengzi.github.io/blob/main/files/无人超市模拟系统.pdf'
+url_pdf: 'https://github.com/cichengzi/cichengzi.github.io/blob/main/static/uploads/无人超市模拟系统.pdf'
 url_slides: ''
 url_video: ''
 

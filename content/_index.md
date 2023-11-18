@@ -45,11 +45,11 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
       filters:
         folders:
@@ -68,7 +68,7 @@ sections:
     design:
       # Choose a layout view
       view: compact
-      columns: '2'
+      columns: '1'
   - block: portfolio
     id: projects
     content:
@@ -86,8 +86,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Python
+          tag: Python
+        - name: C++
+          tag: C++
         - name: Other
           tag: Demo
     design:
@@ -99,12 +101,12 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Publications
       filters:
         folders:
           - publication
         featured_only: true
     design:
-      columns: '2'
+      columns: '1'
       view: card
 ---

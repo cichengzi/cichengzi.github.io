@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Qi Sun
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: # 孙琪
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Qi
+last_name: Sun
 
 # Status emoji
 status:
@@ -17,34 +17,32 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master of Cyberspace Security
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Huazhong University of Science and Technology
+    url: https://www.hust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interest includes knowledge graph, natural language processing, machine learning, and time series forecasting.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Knowledge Graph
+  - Machine Learning
+  - Natural Language Processing
+  - Time Series Forecasting
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Cyberspace Security
+      institution: Huazhong University of Science and Technology
+      year: 2022.09 - present
+    - course: BSc in Data Science and Big Data Technology
+      institution: North University of China
+      year: 2018.09 - 2022.06
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a second year graduate student in Cyberspace Security, at [School of Cyberspace Security](http://cse.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/). My research interest includes knowledge graph, natural language processing, machine learning, and time series forecasting.
 {style="text-align: justify;"}

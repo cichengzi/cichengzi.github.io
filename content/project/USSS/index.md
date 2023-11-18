@@ -3,6 +3,8 @@ title: Unmanned Supermarket Simulation System
 summary: This is an unmanned supermarket simulation system implemented using C++ QT5.0, Python, Pytorch, and OpenCV, which includes functions such as epidemic detection, identity authentication, data acquisition, product selection, product settlement, record query, popular products, goods management, and user addition.
 tags:
   - C++
+  - Python
+  
 date: '2022-10-17T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

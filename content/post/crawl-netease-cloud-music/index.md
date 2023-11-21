@@ -1,7 +1,7 @@
 ---
-title: Blog with Jupyter Notebooks!
-date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+title: Crawl NetEase Cloud Music
+date: '2023-11-21'
+summary: A simple crawling tutorial for NetEase Cloud music. 
 ---
 
 

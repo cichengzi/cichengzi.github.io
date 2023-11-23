@@ -4,31 +4,35 @@ date: '2023-11-23'
 summary: A tutorial for knowledge graph construction using large language model.
 ---
 
+# ChatGPT API
 
 ```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
+from typing import Dict
+from langchain.prompts import PromptTemplate
+from langchain.llms import OpenAI
+from langchain.chains import LLMChain
+
+chatgpt = OpenAI(openai_api_key='openai_api_key', temperature=0.1, model_name='gpt-3.5-turbo')
+
+
+def text_reasoning(prompt_text: str, inputs: Dict, verbose: bool = True) -> str:
+    """
+    A function that uses large language model like gpt3.5 to do text reasoning.
+    Args:
+        verbose: Show the debug messages or not.
+        prompt_text: A string.
+        inputs: A dict that contains keywords in prompt.
+
+    Returns:
+        A string that indicates the text reasoning result.
+    """
+    prompt = PromptTemplate.from_template(prompt_text)
+
+    chain = LLMChain(llm=chatgpt, prompt=prompt, verbose=verbose)
+    response = chain.run(inputs)
+
+    return response.strip()
 ```
 
     
-![png](output_1_0.png)
-    
-
-```python
-print("Welcome to Academic!")
-```
-
-    Welcome to Academic!
-
-## Organize your notebooks
-
-Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
-
-## Import the notebooks into your site
-
-```bash
-pipx install academic
-academic import 'notebooks/**.ipynb' content/post/ --verbose
-```
-
-The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder.
+![png](featured.png)

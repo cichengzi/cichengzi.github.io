@@ -1,7 +1,7 @@
 ---
-title: Crawl NetEase Cloud Music
-date: '2023-11-21'
-summary: A simple crawling tutorial for NetEase Cloud music. 
+title: Construct Knowledge Graphs using Large Language Model
+date: '2023-11-23'
+summary: A tutorial for knowledge graph construction using large language model.
 ---
 
 

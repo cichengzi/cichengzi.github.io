@@ -21,10 +21,10 @@ repository               : "cichengzi/cichengzi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "QiSun.png"
   name             : "Qi Sun"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "My research interest includes knowledge graph, natural language processing, machine learning, and time series forecasting."
   location         : "Wuhan, China"
 #  employer         : "Red Brick University"
 #  uri              : # URL

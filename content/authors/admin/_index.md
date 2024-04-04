@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master of Cyberspace Security
 
 # Organizations/Affiliations to show in About widget
 organizations:

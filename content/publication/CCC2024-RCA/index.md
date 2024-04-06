@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://github.com/cichengzi/cichengzi.github.io/blob/main/static/uploads/CCC2024-RCA.pdf'
+url_pdf: 'https://cichengzi.github.io/publication/CCC2024-RCA/conference-paper.pdf'
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''

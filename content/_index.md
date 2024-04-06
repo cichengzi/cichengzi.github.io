@@ -210,9 +210,9 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
-      columns: '2'
+      columns: '5'
       view: citation
 #  - block: collection
 #    id: talks

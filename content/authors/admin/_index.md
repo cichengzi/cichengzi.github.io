@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 孙琪
+title: Qi Sun
 
 # Name pronunciation (optional)
-name_pronunciation: Qi Sun
+#name_pronunciation: Qi Sun
 
 # Full name (for SEO)
 first_name: Qi

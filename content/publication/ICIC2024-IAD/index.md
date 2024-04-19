@@ -1,5 +1,5 @@
 ---
-title: 'Root Cause Analysis for Industrial Process Anomalies through the Integration of Knowledge Graph and Large Language Model'
+title: 'Spatial-Temporal Dependency Based Multivariate Time Series Anomaly Detection for Industrial Processes'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,8 +7,9 @@ title: 'Root Cause Analysis for Industrial Process Anomalies through the Integra
 authors:
   - admin
   - Yahui Li
+  - Zhenpeng Hu
   - Chunjie Zhou
-  - Yuchu Tian
+  - Lu Liu
 
 # Author notes (optional)
 author_notes:
@@ -27,8 +28,8 @@ publishDate: '2024-04-06T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Chinese Control Conference*
-publication_short: In *Kunming, China*
+publication: In *International Conference on Intelligent Computing*
+publication_short: In *Tianjin, China*
 
 abstract: Root cause analysis for industrial process anomalies is critical for manufacturing activities. Industrial process alarms can provide crucial information to enable root cause analysis. However, the complex system structure causes a large number of alarms to emerge at the same time. To address this issue, we proposed an approach that utilizes knowledge graphs and large language models to provide comprehensible root cause analysis. Firstly, we extract knowledge such as historical anomalies from catalytic cracking operation manuals to construct an industrial process safety knowledge graph. Then, named entities in each alarm are extracted as keywords to retrieve factual knowledge from the knowledge graph. Finally, factual knowledge will be provided to the large language model as prior knowledge to infer the root cause of anomalies. Experimental results show that the proposed approach can accurately identify the root cause, thereby ensuring the safety of industrial processes.
 

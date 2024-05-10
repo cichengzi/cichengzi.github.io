@@ -26,7 +26,7 @@ abstract: Capacity estimation of lithium-ion batteries is a commonly used method
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 #- name: Custom Link

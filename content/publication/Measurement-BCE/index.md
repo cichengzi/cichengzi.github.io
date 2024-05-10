@@ -45,7 +45,7 @@ links:
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -63,10 +63,4 @@ projects:
 #slides: example
 ---
 
-[//]: # ({{% callout note %}})
-
-[//]: # (Create your slides in Markdown - click the *Slides* button to check out the example.)
-
-[//]: # ({{% /callout %}})
-
-[//]: # (Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images]&#40;https://docs.hugoblox.com/content/writing-markdown-latex/&#41;.)
+This is a paper of Capacity Estimation of Lithium-ion Batteries.

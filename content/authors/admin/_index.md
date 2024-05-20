@@ -25,7 +25,7 @@ organizations:
     url: https://www.hust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include natural language processing, time series forecasting and big data analysis.
 
 # Interests to show in About widget
 interests:

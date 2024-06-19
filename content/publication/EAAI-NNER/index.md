@@ -1,11 +1,13 @@
 ---
-title: "Capacity Estimation of Lithium-ion Battery with Multi-task Autoencoder and Empirical Mode Decomposition"
+title: "Named Entity Recognition Based on Anchor Span for Manufacturing Text Knowledge Extraction"
 authors:
+- Yahui Li
 - admin
-- Fangshu Cui
-- Mingrui Shi
+- Chunjie Zhou
+- Lu Liu
+- Yu-Chu Tian
 date: "2024-06-19T00:00:00Z"
-doi: "https://doi.org/10.1016/j.measurement.2024.115146"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-06-19T00:00:00Z"
@@ -16,10 +18,10 @@ publishDate: "2024-06-19T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Measurement"
+publication: "Engineering Applications of Artificial Intelligence"
 publication_short: ""
 
-abstract: Capacity estimation of lithium-ion batteries is a commonly used method in health diagnosis and management. Its mainstream method involves using data-driven time series forecasting models to learn the patterns of changes in capacity. However, capacity regeneration poses a challenge for training time series forecasting models. Therefore, we propose a hybrid method that applies empirical mode decomposition and a multi task autoencoder. In detail, empirical mode decomposition is applied to decompose the time series of capacity into intrinsic mode functions and a residual. Then, a multi-task autoencoder based on diagonal state space models is applied to estimate intrinsic mode functions while support vector regression is utilized for the residual. Experimental results show that the method outperforms seven baselines on three datasets, with an average root mean square error of 0.0103, 0.0111, and 0.0004. Furthermore, it is capable of performing an inference on the CPU in 3.57 ms with 0.69MB of memory usage.
+abstract: Intelligent industrial manufacturing heavily relies on structured knowledge. Named Entity Recognition (NER), an essential technique for extracting structured knowledge from text, has garnered significant research interest. However, current NER approaches face difficulties in handling multiple levels of entity nesting in knowledge extraction, especially within the manufacturing context. To address this issue, we present an Anchor Span-based NER (ASNER) approach for accurately and efficiently extracting manufacturing text knowledge. This method combines token and span classification. Initially, the head and tail features of the entity are extracted, with the corresponding anchor span of potential entities generated based on a boundary match neural network to localize the entities. Subsequently, token spatial contextual features are extracted using biaffine attention and convolutional neural networks, and classification categories are assigned to the anchor span-filtered entity features. Experimental studies demonstrate the effectiveness of the proposed ASNER approach.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -63,4 +65,4 @@ projects:
 #slides: example
 ---
 
-This is a paper of Capacity Estimation of Lithium-ion Batteries.
+This is a paper of nested named entity recognition of industrial text.

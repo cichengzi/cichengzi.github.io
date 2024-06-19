@@ -28,7 +28,7 @@ abstract: Intelligent industrial manufacturing heavily relies on structured know
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 #- name: Custom Link

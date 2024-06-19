@@ -28,8 +28,8 @@ publishDate: '2024-04-06T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Intelligent Computing*
-publication_short: In *Tianjin, China*
+publication: International Conference on Intelligent Computing
+publication_short: International Conference on Intelligent Computing
 
 abstract: Multivariate time series anomaly detection is crucial for ensuring equipment and systems’ safe operation in the industrial process. However, detecting anomalies in multivariate time series is challenging due to the complex temporal and spatial dependencies among variables. To address this issue, we propose a multi-task variational autoencoder for multivariate time series anomaly detection. Structurally, it combines multi-task learning with a variational autoencoder structure to obtain a robust representation of time series with noise. In detail, graph attention networks and selective state space models are utilized to capture spatial and temporal dependencies effectively. Experimental results show that the proposed model outperforms six baselines on three datasets, including an anomaly detection dataset of the catalytic cracking process, achieving F1 scores of 0.9389, 0.8151, and 0.9524. In addition, anomaly scores and a causal graph of variables can provide a highly interpretable analysis of results to assist on-site safety managers in timely handling anomalies.
 

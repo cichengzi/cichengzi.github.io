@@ -9,6 +9,7 @@ summary: Welcome 👋 We know that first impressions are important, so we've pop
 projects: []
 
 # Date published
+draft: true
 date: '2020-12-13T00:00:00Z'
 
 # Date updated

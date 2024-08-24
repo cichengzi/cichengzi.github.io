@@ -37,10 +37,4 @@ In this post, the basic knowledge of recurrent neural networks will be introduce
 
 ### Neural Networks without Hidden States
 
-Let's take a look at an MLP with a single hidden layer. Let the hidden layer's activation function be 
-{{< math >}}
-$$
-\phi
-$$.
-
-{{< /math >}}
+Let's take a look at an MLP with a single hidden layer. Let the hidden layer's activation function be {{< math >}}$ \phi ${{< /math >}}.

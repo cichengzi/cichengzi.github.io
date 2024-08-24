@@ -28,6 +28,8 @@ tags:
 
 categories:
   - Deep Learning
+  
+math: true
 
 ---
 

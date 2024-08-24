@@ -20,14 +20,6 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-#  focal_point: ''
-#  placement: 2
-#  preview_only: false
-
 authors:
   - admin
 
@@ -39,3 +31,14 @@ categories:
 
 ---
 
+In this post, the basic knowledge of recurrent neural networks will be introduced. 
+
+### Neural Networks without Hidden States
+
+Let's take a look at an MLP with a single hidden layer. Let the hidden layer's activation function be 
+{{< math >}}
+$$
+\phi
+$$.
+
+{{< /math >}}

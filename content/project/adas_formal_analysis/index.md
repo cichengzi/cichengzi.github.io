@@ -30,4 +30,4 @@ url_code: 'https://github.com/liuluddex/SafetySecurityVerification'
 #slides: example
 ---
 
-This is a project about verification and falsification of ADAS under cyberattacks.
+This is a project about Verification and falsification of ADAS under cyberattacks.

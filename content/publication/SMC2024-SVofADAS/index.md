@@ -1,5 +1,5 @@
 ---
-title: 'Safety Verification of Advanced Driving Assistance Systems Using Hybrid Automaton Reachability'
+title: 'Safety Verification of Advanced Driver Assistance Systems Using Hybrid Automaton Reachability'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

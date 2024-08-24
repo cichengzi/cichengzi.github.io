@@ -62,12 +62,12 @@ sections:
       columns: '2'
       view: citation
   - block: portfolio
-    id: tutorials
+    id: posts
     content:
-      title: Tutorials
+      title: Posts
       filters:
         folders:
-          - tutorials
+          - posts
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -76,7 +76,7 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: All Tutorials
+        - name: All Posts
           tag: '*'
         - name: Natural Language Processing
           tag: Natural Language Processing
@@ -84,6 +84,8 @@ sections:
           tag: Time Series Forecasting
         - name: Formal Analysis
           tag: Formal Analysis
+        - name: Deep Learning
+          tag: Deep Learning
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

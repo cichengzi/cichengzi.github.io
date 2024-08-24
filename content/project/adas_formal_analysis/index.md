@@ -33,10 +33,10 @@ url_code: 'https://github.com/liuluddex/SafetySecurityVerification'
 This project is about formal verification and falsification of Advanced Driver Assistance Systems (ADAS) under cyberattacks. We will introduce this project from the following structure.
 
 ## Content
--[Content](#content)
-  -[Introduction](#introduction)
-  -[Related Work](#related-work)
-  -[Method](#method)
+- [Content](#content)
+  - [Introduction](#introduction)
+  - [Related Work](#related-work)
+  - [Method](#method)
 
 ### Introduction
 

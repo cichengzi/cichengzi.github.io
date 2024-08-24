@@ -21,4 +21,4 @@
     debug = true
 
 [params]
-  pageWidth = "1200px"
+  pageWidth = "500px"

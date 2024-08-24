@@ -1,9 +1,9 @@
 ---
-title: Capacity Estimation of Lithium-ion Batteries
-summary: Data-Driven hybrid method for capacity estimation of lithium-ion batteries. 
+title: Recurrent Neural Network
+summary: A basic tutorial about recurrent neural network. 
 tags:
-  - Time Series
-date: '2024-05-10T00:00:00Z'
+  - Deep Learning
+date: '2024-08-24T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

@@ -91,12 +91,12 @@ sections:
       columns: '2'
       view: citation
   - block: portfolio
-    id: tutorial
+    id: tutorials
     content:
-      title: Tutorial
+      title: Tutorials
       filters:
         folders:
-          - tutorial
+          - tutorials
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).

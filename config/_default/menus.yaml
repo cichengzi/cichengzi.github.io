@@ -20,6 +20,6 @@ main:
     url: uploads/resume.pdf
     weight: 40
 
-  - name: Tutorial
-    url: '#tutorial'
+  - name: Tutorials
+    url: '#tutorials'
     weight: 50

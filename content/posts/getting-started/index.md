@@ -9,14 +9,13 @@ summary: Welcome 👋 We know that first impressions are important, so we've pop
 projects: []
 
 # Date published
-draft: true
 date: '2020-12-13T00:00:00Z'
 
 # Date updated
 lastmod: '2020-12-13T00:00:00Z'
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 # Show this page in the Featured widget?
 featured: false

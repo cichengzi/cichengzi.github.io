@@ -1,6 +1,6 @@
 ---
-title: Formal Analysis of Advanced Driver Assistance System
-summary: Verification and falsification of ADAS under cyberattacks.
+title: Enhanced Verification and Falsification for ADAS Safety and Security Based on Reachability and Deep Reinforcement Learning
+summary: Verification and falsification of ADAS under cyberattacks based on hybrid automaton reachability and deep reinforcement learning.
 tags:
   - Formal Analysis
 date: '2024-05-10T00:00:00Z'
@@ -30,13 +30,16 @@ url_code: 'https://github.com/liuluddex/SafetySecurityVerification'
 #slides: example
 ---
 
-This project is about formal verification and falsification of Advanced Driver Assistance Systems (ADAS) under cyberattacks. We will introduce this project from the following structure.
+This project is about formal verification and falsification of Advanced Driver Assistance Systems (ADAS) under cyberattacks based on hybrid automaton reachability and deep reinforcement learning.. We will introduce this project from the following structure.
 
 ## Content
 - [Content](#content)
   - [Introduction](#introduction)
   - [Related Work](#related-work)
-  - [Method](#method)
+  - [System Assumptions and Problem Statements](#problems)
+  - [Methods for Enhanced Verification and Falsification of ADAS Safety with Security](#methods)
+  - [Experiments and Results](#experiments)
+  - [Conclusion](#conclusion)
 
 ### Introduction
 
@@ -46,6 +49,12 @@ This is introduction
 
 This is related work
 
-### Method
+### System Assumptions and Problem Statements
 
 This is method
+
+### Methods for Enhanced Verification and Falsification of ADAS Safety with Security
+
+### Experiments and Results
+
+### Conclusion

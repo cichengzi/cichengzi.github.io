@@ -20,5 +20,5 @@
   [plugins.inputs]
     debug = true
 
-[params]
-  pageWidth = "500px"
+[[params.customCSS]]
+  href = "css/main.css"

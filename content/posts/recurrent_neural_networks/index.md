@@ -1,9 +1,9 @@
 ---
 title: Basic Knowledge of Recurrent Neural Networks
-subtitle: Basics of recurrent neural networks and the difference between the long short-term memory (LSTM) and gated neural unit (GRU).
-
+subtitle: 
+  
 # Summary for listings and search engines
-summary: 
+summary: Basics of recurrent neural networks and the difference between the long short-term memory (LSTM) and gated neural unit (GRU).
   
 # Link this post with a project
 projects: []

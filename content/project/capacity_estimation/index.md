@@ -2,7 +2,7 @@
 title: Capacity Estimation of Lithium-ion Batteries
 summary: Data-Driven hybrid method for capacity estimation of lithium-ion batteries. 
 tags:
-  - Time Series
+  - Time Series Forecasting
 date: '2024-05-10T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

@@ -76,14 +76,16 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Natural Language Processing
+          tag: Natural Language Processing
+        - name: Time Series Forecasting
+          tag: Time Series Forecasting
+        - name: Formal Analysis
+          tag: Formal Analysis
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
 ---

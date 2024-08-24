@@ -17,7 +17,7 @@ author_notes:
 #  - 'Equal contribution'
 
 date: '2024-04-06T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1007/978-981-97-5618-6_18'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-04-06T00:00:00Z'
@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-#url_pdf: 'https://cichengzi.github.io/publication/CCC2024-RCA/conference-paper.pdf'
+url_pdf: uploads/ICIC_2024.pdf
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''

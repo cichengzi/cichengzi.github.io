@@ -1,8 +1,8 @@
 ---
-title: Capacity Estimation of Lithium-ion Batteries
-summary: Data-Driven hybrid method for capacity estimation of lithium-ion batteries. 
+title: Nested Named Entity Recognition of Manufacturing Text
+summary: Pretrained language model based nested named entity recognition of manufacturing text.
 tags:
-  - Time Series Forecasting
+  - Natural Language Processing
 date: '2024-05-10T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -17,7 +17,7 @@ links:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com/liuluddex/BatteryCapacityEstimation'
+url_code: 'https://github.com/liuluddex/IndustrialNER'
 #url_pdf: ''
 #url_slides: ''
 #url_video: ''
@@ -30,4 +30,4 @@ url_code: 'https://github.com/liuluddex/BatteryCapacityEstimation'
 #slides: example
 ---
 
-This is a project about capacity estimation of lithium-ion batteries.
+This is a project about pretrained language model based nested named entity recognition of manufacturing text.

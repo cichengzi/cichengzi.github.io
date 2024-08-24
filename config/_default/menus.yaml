@@ -11,7 +11,7 @@ main:
     url: '#projects'
     weight: 20
   - name: 📄 Publications & Talks
-    url: '#featured'
+    url: '#publications'
     weight: 30
   - name: 💬 Posts
     url: '#posts'

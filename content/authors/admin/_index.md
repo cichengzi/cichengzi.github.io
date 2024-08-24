@@ -31,14 +31,11 @@ bio: My research interests include natural language processing, time series fore
 interests:
   - Natural Language Processing
   - Time Series Forecasting
-  - Big Data Analysis
+  - Formal Analysis
 
 # Education to show in About widget
 education:
   courses:
-#    - course: PhD in Artificial Intelligence
-#      institution: Stanford University
-#      year: 2012
     - course: MEng in Cyberspace Security
       institution: Huazhong University of Science and Technology
       year: 2022

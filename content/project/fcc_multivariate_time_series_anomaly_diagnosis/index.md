@@ -1,6 +1,6 @@
 ---
 title: Multivariate Time Series Anomaly Diagnosis of Fluid Catalytic Cracking
-summary: Safety Knowledge Graph Construction and Anomaly Diagnosis for Catalytic Cracking Units. 
+summary: Safety knowledge graph construction and anomaly diagnosis for catalytic cracking units. 
 tags:
   - Time Series Forecasting
   - Natural Language Processing

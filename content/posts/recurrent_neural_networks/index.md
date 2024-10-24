@@ -9,10 +9,10 @@ summary: Basics of recurrent neural networks and the difference between the long
 projects: []
 
 # Date published
-date: '2024-8-24T00:00:00Z'
+date: '2024-08-24T00:00:00Z'
 
 # Date updated
-lastmod: '2024-8-24T00:00:00Z'
+lastmod: '2024-08-24T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
